@@ -1,1 +1,1 @@
-Todolist API project from Angela Yu's Web Development Bootcamp
+Todolist API project from Colt Steels Advanced Web Development Bootcamp
