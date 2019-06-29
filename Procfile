@@ -1,1 +1,1 @@
-web: node dso.js
+web: node index.js
